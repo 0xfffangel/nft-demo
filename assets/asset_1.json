@@ -1,0 +1,14 @@
+
+{
+    "tokenId": 1,
+    "name": "Asset #1",
+    "description": "Test NFT",
+    "image": "https://raw.githubusercontent.com/0xfffangel/nft-demo/master/assets/asset_1.png",
+    "external_url": "https://github.com/0xfffangel/nft-demo",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": 66
+        }
+    ]
+}
