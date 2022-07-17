@@ -1,9 +1,9 @@
 
 {
-    "tokenId": 0,
-    "name": "Asset #0",
+    "tokenId": 3,
+    "name": "Asset #3",
     "description": "Test NFT",
-    "image": "https://raw.githubusercontent.com/0xfffangel/nft-demo/master/assets/asset_0.png",
+    "image": "https://raw.githubusercontent.com/0xfffangel/nft-demo/master/assets/asset_3.png",
     "external_url": "https://github.com/0xfffangel/nft-demo",
     "attributes": [
         {
