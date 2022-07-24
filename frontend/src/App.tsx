@@ -58,7 +58,7 @@ function App() {
     const web3 = new Web3(Web3.givenProvider);
     const contract = new web3.eth.Contract(ABI, '0xe04339E0b0038242eCaBd14954267E7C9415917A');
 
-    contract.methods.mint().send({
+    contract.methods.mintTo().send({
       from: account,
       value: Web3.utils.toWei(mintAmount + '')
     })
